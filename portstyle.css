@@ -1,0 +1,171 @@
+.nav{
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+body{
+    width: 100%;
+}
+
+.head{
+    background-color: #011826;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    overflow: hidden;
+    z-index: 10; 
+}
+
+.nav-link{
+    color: #011826;
+    font-size: 20px;
+    font-family:"DM Serif Text", serif;;
+}
+
+.Big{
+    color: #011826;
+    font-family:"DM Serif Display", serif;
+    font-size: 75px;
+
+}
+
+.Title{
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    background-color: #EBEFF2;
+}
+
+.small{
+    color: #011826;
+    font-size: 40px;
+    font-family:"DM Serif Text", serif; 
+}
+
+.btn{
+    margin-bottom: 350px;
+    background-color: #011826;
+    border-radius: 10px;
+    color: #EBEFF2;
+}
+
+.about{
+    margin-left: 20px;
+    font-family:"DM Serif Text", serif; 
+    color: #011826;
+    font-size: 90px;
+}
+
+
+.me{
+    background-color: #011826;
+    border-radius: 20px;
+    margin-bottom: 35px;
+}
+
+.projects{
+    margin-left: 20px;
+    font-family:"DM Serif Text", serif; 
+    color: #EBEFF2;
+    font-size: 90px;
+    text-align: center;
+}
+
+.line{
+    color: #EBEFF2;
+    margin-bottom: 50px;
+}
+
+
+.Project{
+    background-color: #011826;
+}
+
+.Pro-head{
+    color: #EBEFF2;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.img-project{
+    height: 300px;
+    width: 100%;
+}
+
+.card-body{
+    height: 200px;
+    color: #011826;
+    
+}
+
+.card{
+    margin-bottom: 50px;
+    background-color: #EBEFF2;
+    
+}
+
+
+.About-me{
+    background-color: #EBEFF2;
+}
+
+.skills-title{
+    margin-left: 100px;
+    font-family:"DM Serif Display", serif;
+    font-size: 75px;
+    color: #011826;
+}
+
+.description{
+    margin-left: 100px;
+    font-family:"DM Serif Text", serif; 
+    font-size: 25px;
+    width: 50%;
+}
+
+.Skills-container{
+    background-color: #EBEFF2;
+    display: flex;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.container-progress{
+    display: inline-block;
+}
+
+.pics{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    margin-right: 50px;
+    
+
+}
+
+.container-pics{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.contact-us{
+    background-color: #011826;
+    color:#EBEFF2 ;
+}
+
+.bi{
+    display: flex;
+    justify-content: end
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
+
